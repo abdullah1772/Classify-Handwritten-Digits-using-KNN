@@ -23,7 +23,6 @@ The code uses the following Python libraries:
 - matplotlib
 - seaborn
 - sklearn
-- keras
 
 You can install these libraries using pip:
 
